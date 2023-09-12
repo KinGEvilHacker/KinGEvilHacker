@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imnot_avanish)
 
 
-### imNot Avanish github stats 
+### KinGEvilHacker github stats 
 <p align="center">
     <img
         width="52%"
@@ -19,7 +19,7 @@
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=KinGEvilHacker &theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=KinGEvilHacker&theme=tokyonight"
     />
 </p>
 
